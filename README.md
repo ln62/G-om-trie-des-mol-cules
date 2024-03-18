@@ -1,1 +1,1 @@
-# G-om-trie-des-mol-cules
+# Geometrie-des-molecules
